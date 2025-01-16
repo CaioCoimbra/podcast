@@ -1,0 +1,8 @@
+#lista{
+    display: flex;
+    gap: 25px;
+}
+
+.item{
+    list-style: none;
+}
