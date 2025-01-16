@@ -44,12 +44,14 @@ main >img{
 }
 
 .partes{
-    min-height: 75vh;
+    min-height: 85vh;
+
 }
 
 .titulo-partes{
     display: flex;
     align-items: center;
+    width: 100%;
 }
 
 .icon{

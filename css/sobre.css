@@ -1,3 +1,8 @@
+#sobre > img{
+    width: 100%;
+    margin: 15px 0;
+}
+
 #sobre > div> p{
     font-size: 20px;
     text-align: justify;
